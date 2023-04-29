@@ -1,0 +1,1914 @@
+[
+  {
+    "name": "AMD Ryzen 5 5500 3.6GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/417796-568215-category_page/amd-ryzen-5-5500-3642ghz-16mb-sam4-tray-100-000000457.png",
+    "price": 3599,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 5600 3.5GHz 32MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/439195-582578-category_page/amd-ryzen-5-5600-3544ghz-32mb-sam4-multipack-100-100000927mpk.png",
+    "price": 5799,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 9 5900X 3.7GHz 64MB sAM4 Box",
+    "img": "https://img.telemart.ua/308342-471422-category_page/amd-ryzen-9-5900x-3748ghz-64mb-sam4-box-100-100000061wof.png",
+    "price": 14839,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 9 5950X 3.4GHz 64MB sAM4 Box",
+    "img": "https://img.telemart.ua/308340-471424-category_page/amd-ryzen-9-5950x-3449ghz-64mb-sam4-box-100-100000059wof.png",
+    "price": 20199,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 16
+  },
+  {
+    "name": "AMD Ryzen 5 5600X 3.7GHz 32MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/308348-471417-category_page/amd-ryzen-5-5600x-3746ghz-32mb-sam4-multipack-100-100000065mpk.png",
+    "price": 6599,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Celeron G5900 3.4GHz 2MB s1200 Box",
+    "img": "https://img.telemart.ua/301005-554774-category_page/intel-celeron-g5900-34ghz-2mb-s1200-box-bx80701g5900.png",
+    "price": 999,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "AMD Ryzen 7 5700X 3.4GHz 32MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/499218-639416-category_page/amd-ryzen-7-5700x-3446ghz-32mb-sam4-multipack-100-100000926spk.jpg",
+    "price": 8119,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i9-12900KS 3.4GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/417892-568221-category_page/intel-core-i9-12900ks-3455ghz-30mb-s1700-box-bx8071512900ks.jpg",
+    "price": 22999,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i7-11700F 2.5GHz 16MB s1200 Tray",
+    "img": "https://img.telemart.ua/347405-494940-category_page/intel-core-i7-11700f-25ghz-16mb-s1200-tray-cm8070804491213.png",
+    "price": 10429,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5700X 3.4GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/417529-568173-category_page/amd-ryzen-7-5700x-3446ghz-32mb-sam4-box-100-100000926wof.png",
+    "price": 8119,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 3600 3.6GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/423801-580141-category_page/amd-ryzen-5-3600-3642ghz-32mb-sam4-box-100-100000031awof.jpg",
+    "price": 3319,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i7-11700KF 3.6GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/347165-494942-category_page/intel-core-i7-11700kf-36-16mb-s1200-box-bx8070811700kf.png",
+    "price": 11999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 7600X 4.7GHz 32MB sAM5 Box",
+    "img": "https://img.telemart.ua/431981-580509-category_page/amd-ryzen-5-7600x-47-50ghz-38mb-sam5-box-100-100000593wof.png",
+    "price": 10709,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM5",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 5600 3.5GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/417531-568171-category_page/amd-ryzen-5-5600-3544ghz-32mb-sam4-box-100-100000927box.png",
+    "price": 5799,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-10400F 2.9GHz s1200 Box",
+    "img": "https://img.telemart.ua/263112-462823-category_page/intel-core-i5-10400f-2943ghz-s1200-box.png",
+    "price": 4199,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 5600G 3.9GHz 16MB sAM4 Box",
+    "img": "https://img.telemart.ua/375306-522560-category_page/amd-ryzen-5-5600g-3944ghz-16mb-sam4-box-100-100000252box.png",
+    "price": 5539,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 5500 3.6GHz 16MB sAM4 Box",
+    "img": "https://img.telemart.ua/417797-568214-category_page/amd-ryzen-5-5500-3642ghz-16mb-sam4-box-100-100000457box.png",
+    "price": 3859,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-11400F 2.6Hz 12MB s1200 Box",
+    "img": "https://img.telemart.ua/347188-494931-category_page/intel-core-i5-11400f-26ghz-12mb-s1200-box-bx8070811400f.png",
+    "price": 4999,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 7 7700X 4.5GHz 32MB sAM5 Box",
+    "img": "https://img.telemart.ua/431982-580510-category_page/amd-ryzen-7-7700x-45-50ghz-40mb-sam5-box-100-100000591wof.png",
+    "price": 14789,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM5",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5700G 3.8GHz 16MB sAM4 Box",
+    "img": "https://img.telemart.ua/369438-514196-category_page/amd-ryzen-7-5700g-3846ghz-16mb-sam4-box-100-100000263box.png",
+    "price": 8099,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 9 7950X 4.5GHz 64MB sAM5 Box",
+    "img": "https://img.telemart.ua/431984-580512-category_page/amd-ryzen-9-7950x-45-50ghz-80mb-sam5-box-100-100000514wof.png",
+    "price": 24999,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 16
+  },
+  {
+    "name": "AMD Ryzen 9 7900X 4.7GHz 64MB sAM5 Box",
+    "img": "https://img.telemart.ua/431983-580511-category_page/amd-ryzen-9-7900x-47-50ghz-76mb-sam5-box-100-100000589wof.png",
+    "price": 18949,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i5-12400 2.5GHz 18MB s1700 Box",
+    "img": "https://img.telemart.ua/403299-554706-category_page/intel-core-i5-12400-2544ghz-18mb-s1700-box-bx8071512400.png",
+    "price": 8229,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12400F 2.5GHz 18MB s1700 Box",
+    "img": "https://img.telemart.ua/403292-554709-category_page/intel-core-i5-12400f-2544ghz-18mb-s1700-box-bx8071512400f.png",
+    "price": 7199,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 7600 3.8GHz 32MB sAM5 Box",
+    "img": "https://img.telemart.ua/466606-606904-category_page/amd-ryzen-5-7600-3851ghz-32mb-sam5-box-100-100001015box.jpg",
+    "price": 9999,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM5",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i3-12100F 3.3GHz 12MB s1700 Box",
+    "img": "https://img.telemart.ua/403306-554605-category_page/intel-core-i3-12100f-3343ghz-12mb-s1700-box-bx8071512100f.jpg",
+    "price": 4399,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i7-12700K 3.6GHz 25MB s1700 Box",
+    "img": "https://img.telemart.ua/386077-543206-category_page/intel-core-i7-12700k-3650ghz-s1700-tray.jpg",
+    "price": 16199,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i5-13400F 2.5GHz 20MB s1700 Box",
+    "img": "https://img.telemart.ua/464692-601181-category_page/intel-core-i5-13400f-2546ghz-20mb-s1700-box-bx8071513400f.png",
+    "price": 8969,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "AMD Ryzen 5 4500 3.6GHz 8MB sAM4 Box",
+    "img": "https://img.telemart.ua/420212-569166-category_page/amd-ryzen-5-4500-3641ghz-8mb-sam4-box-100-100000644box.jpg",
+    "price": 3139,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i9-10900K 3.7GHz 20MB s1200 Box",
+    "img": "https://img.telemart.ua/263098-462834-category_page/intel-core-i9-10900k-3752ghz-20mb-s1200-box.png",
+    "price": 15999,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1200",
+    "cpu_cores": 10
+  },
+  {
+    "name": "AMD Ryzen 7 7700 3.8GHz 32MB sAM5 Box",
+    "img": "https://img.telemart.ua/466609-606910-category_page/amd-ryzen-7-7700-3853ghz-32mb-sam5-box-100-100000592box.jpg",
+    "price": 14299,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM5",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i3-10100F 3.6GHz 6MB s1200 Box",
+    "img": "https://img.telemart.ua/309086-471893-category_page/intel-core-i3-10100f-3643ghz-6mb-s1200-box-bx8070110100f.png",
+    "price": 2849,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D 4.2GHz 96MB sAM5 Box",
+    "img": "https://img.telemart.ua/496677-635863-category_page/amd-ryzen-7-7800x3d-4250ghz-96mb-sam5-box-100-100000910wof.jpg",
+    "price": 21499,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM5",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5800X 3.8GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/308345-471420-category_page/amd-ryzen-7-5800x-3847ghz-32mb-sam4-box-100-100000063wof.png",
+    "price": 9799,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 9 7900 3.7GHz 64MB sAM5 Box",
+    "img": "https://img.telemart.ua/466612-606916-category_page/amd-ryzen-9-7900-3754ghz-64mb-sam5-box-100-100000590box.jpg",
+    "price": 18499,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 5 5600G 3.9GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/359388-502069-category_page/amd-ryzen-5-5600g-3944ghz-16mb-sam4-tray-100-000000252.png",
+    "price": 5079,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-13600KF 3.5GHz 24MB s1700 Box",
+    "img": "https://img.telemart.ua/439553-582758-category_page/intel-core-i5-13600kf-3951ghz-24mb-s1700-box-bx8071513600kf.jpg",
+    "price": 12749,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 14
+  },
+  {
+    "name": "Intel Core i9-13900K 3.0GHz 36MB s1700 Box",
+    "img": "https://img.telemart.ua/439550-582764-category_page/intel-core-i9-13900k-4358ghz-36mb-s1700-box-bx8071513900k.jpg",
+    "price": 25299,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 24
+  },
+  {
+    "name": "AMD Ryzen 5 5600X 3.7GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/308347-471415-category_page/amd-ryzen-5-5600x-3746ghz-32mb-sam4-box-100-100000065box.png",
+    "price": 6999,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-13600K 3.5GHz 24MB s1700 Box",
+    "img": "https://img.telemart.ua/439554-582756-category_page/intel-core-i5-13600k-3951ghz-24mb-s1700-box-bx8071513600k.jpg",
+    "price": 13959,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 14
+  },
+  {
+    "name": "AMD Ryzen 7 5800X3D 3.4GHz 96MB sAM4 Box",
+    "img": "https://img.telemart.ua/417426-568175-category_page/amd-ryzen-7-5800x3d-3445ghz-96mb-sam4-tray.png",
+    "price": 13999,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i7-13700KF 3.4GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/439551-582762-category_page/intel-core-i7-13700kf-4254ghz-30mb-s1700-box-bx8071513700kf.jpg",
+    "price": 17999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i7-13700K 3.4GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/439552-582760-category_page/intel-core-i7-13700k-4254ghz-30mb-s1700-box-bx8071513700k.jpg",
+    "price": 18149,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i3-10105F 3.7GHz 6MB s1200 Box",
+    "img": "https://img.telemart.ua/348745-518843-category_page/intel-core-i3-10105f-37ghz-6mb-s1200-box-bx8070110105f.png",
+    "price": 2899,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-13100F 3.4GHz 12MB s1700 Box",
+    "img": "https://img.telemart.ua/464693-601180-category_page/intel-core-i3-13100f-3445ghz-12mb-s1700-box-bx8071513100f.jpg",
+    "price": 4839,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 5 4600G 3.7GHz 8MB sAM4 Box",
+    "img": "https://img.telemart.ua/417542-594686-category_page/amd-ryzen-5-4600g-3742ghz-8mb-sam4-box-100-100000147box.jpg",
+    "price": 4019,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-13500 2.5GHz 24MB s1700 Box",
+    "img": "https://img.telemart.ua/464901-601362-category_page/intel-core-i5-13500-2548ghz-24mb-s1700-box-bx8071513500.png",
+    "price": 11399,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 14
+  },
+  {
+    "name": "AMD Ryzen 9 7950X 4.5GHz 64MB sAM5 Tray",
+    "img": "https://img.telemart.ua/471348-607544-category_page/amd-ryzen-9-7950x-4557ghz-64mb-sam5-tray-100-000000514.png",
+    "price": 23999,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i5-12400F 2.5GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403290-554711-category_page/intel-core-i5-12400f-2544ghz-18mb-s1700-tray-cm8071504555318.png",
+    "price": 7029,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD A6-9500E 3.0GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/386201-538298-category_page/amd-a6-9500e-3034ghz-sam4-tray-ad9500ahm23ab.jpg",
+    "price": 699,
+    "cpu_list": "AMD A6",
+    "socket": "AM4",
+    "cpu_cores": 2
+  },
+  {
+    "name": "AMD Ryzen 3 4100 3.8GHz 4MB sAM4 Box",
+    "img": "https://img.telemart.ua/417545-568168-category_page/amd-ryzen-3-4100-3840ghz-4mb-sam4-box-100-100000510box.jpg",
+    "price": 2829,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 4300G 3.8GHz 4MB sAM4 Box",
+    "img": "https://img.telemart.ua/439199-582577-category_page/amd-ryzen-3-4300g-3840ghz-4mb-sam4-box-100-100000144box.png",
+    "price": 3539,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i9-13900KF 3.0GHz 36MB s1700 Box",
+    "img": "https://img.telemart.ua/439549-582766-category_page/intel-core-i9-13900kf-4358ghz-36mb-s1700-box-bx8071513900kf.jpg",
+    "price": 24769,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 24
+  },
+  {
+    "name": "AMD Ryzen 9 7950X3D 4.2GHz 128MB sAM5 Box",
+    "img": "https://img.telemart.ua/479577-616649-category_page/amd-ryzen-9-7950x3d-4257ghz-128mb-sam5-box-100-100000908wof.png",
+    "price": 33499,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i7-11700K 3.6GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/333263-484206-category_page/intel-core-i7-11700k-2550-16mb-s1200-box.png",
+    "price": 12199,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i7-13700F 2.1GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/464691-601183-category_page/intel-core-i7-13700f-2152ghz-30mb-s1700-box-bx8071513700f.png",
+    "price": 15999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i5-10400 2.9GHz s1200 Box",
+    "img": "https://img.telemart.ua/263111-462822-category_page/intel-core-i5-10400-2943ghz-s1200-box.png",
+    "price": 5499,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i7-10700 2.9GHz 16MB s1200 Tray",
+    "img": "https://img.telemart.ua/274446-446175-category_page/intel-core-i7-10700-2948ghz-16mb-s1200-tray-cm8070104282327.jpg",
+    "price": 8599,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i3-10100 3.6GHz s1200 Box",
+    "img": "https://img.telemart.ua/263115-462819-category_page/intel-core-i3-10100-3643ghz-s1200-box.png",
+    "price": 4589,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i7-12700F 2.1GHz 25MB s1700 Box",
+    "img": "https://img.telemart.ua/403456-554719-category_page/intel-core-i7-12700f-2149ghz-25mb-s1700-box-bx8071512700f.jpg",
+    "price": 12999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i5-12600KF 3.7GHz 20MB s1700 Box",
+    "img": "https://img.telemart.ua/388118-543203-category_page/intel-core-i5-12600kf-3449ghz-20mb-s1700-tray-bx8071512600kf.jpg",
+    "price": 11799,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "Intel Core i5-12600K 3.7GHz 20MB s1700 Box",
+    "img": "https://img.telemart.ua/386078-543200-category_page/intel-core-i5-12600k-3449ghz-s1700-tray.jpg",
+    "price": 12399,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "Intel Core i9-12900K 3.2GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/386076-543212-category_page/intel-core-i9-12900k-3650ghz-s1700-tray.jpg",
+    "price": 20599,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "AMD Ryzen 7 3700X 3.6GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/155656-441311-category_page/amd-ryzen-7-3700x-3744ghz-32mb-sam4-box-100-100000071box.png",
+    "price": 8403,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i5-11400 2.6GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/348535-495643-category_page/intel-core-i5-11400-26ghz-12mb-s1200-tray-cm8070804497015.png",
+    "price": 5679,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i3-12100 3.3GHz 12MB s1700 Box",
+    "img": "https://img.telemart.ua/403304-554603-category_page/intel-core-i3-12100-3343ghz-12mb-s1700-box-bx8071512100.jpg",
+    "price": 5399,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 9 7900X3D 4.4GHz 128MB sAM5 Box",
+    "img": "https://img.telemart.ua/479576-616647-category_page/amd-ryzen-9-7900x3d-4456ghz-128mb-sam5-box-100-100000909wof.png",
+    "price": 26999,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i5-11400 2.6GHz 12MB s1200 Box",
+    "img": "https://img.telemart.ua/333320-484201-category_page/intel-core-i5-11400-44ghz-12mb-s1200-box.png",
+    "price": 6299,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-13400 2.5GHz 20MB s1700 Box",
+    "img": "https://img.telemart.ua/464900-601360-category_page/intel-core-i5-13400-2546ghz-20mb-s1700-box-bx8071513400.png",
+    "price": 10199,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "Intel Core i7-12700KF 3.6GHz 25MB s1700 Box",
+    "img": "https://img.telemart.ua/388117-543209-category_page/intel-core-i7-12700kf-3650ghz-25mb-s1700-tray-bx8071512700kf.jpg",
+    "price": 14649,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 7 3700X 3.6GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/217662-441575-category_page/amd-ryzen-7-3700x-3644ghz-32mb-sam4-tray-100-000000071.png",
+    "price": 6705,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i3-10105 3.7GHz 6MB s1200 Box",
+    "img": "https://img.telemart.ua/348740-501112-category_page/intel-core-i3-10105-37ghz-6mb-s1200-box-bx8070110105.png",
+    "price": 4669,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-12100F 3.3GHz 12MB s1700 Tray",
+    "img": "https://img.telemart.ua/403305-554702-category_page/intel-core-i3-12100f-3343ghz-12mb-s1700-tray-cm8071504651013.png",
+    "price": 4099,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Athlon 3000G 3.5GHz sAM4 Box",
+    "img": "https://img.telemart.ua/208627-441432-category_page/amd-athlon-3000g-35ghx-sam4-box-yd3000c6fhbox.png",
+    "price": 2299,
+    "cpu_list": "AMD Athlon",
+    "socket": "AM4",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i7-11700 2.5GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/333265-484205-category_page/intel-core-i7-11700-2549-16mb-s1200-box.png",
+    "price": 11969,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i5-12600 3.3GHz 18MB s1700 Box",
+    "img": "https://img.telemart.ua/403289-554716-category_page/intel-core-i5-12600-3348ghz-18mb-s1700-box-bx8071512600.png",
+    "price": 11199,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 3 3200G 3.6GHz 4MB sAM4 Box",
+    "img": "https://img.telemart.ua/150286-441298-category_page/amd-ryzen-3-3200g-364ghz-4mb-sam4-box-yd3200c5fhbox.png",
+    "price": 3365,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-13100 3.4GHz 12MB s1700 Box",
+    "img": "https://img.telemart.ua/464902-601358-category_page/intel-core-i3-13100-3445ghz-12mb-s1700-box-bx8071513100.png",
+    "price": 5859,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Pentium G4560 3.5GHz 3MB s1151 Tray Seller Recertified",
+    "img": "https://img.telemart.ua/470842-606733-category_page/intel-pentium-g4560-35ghz-3mb-s1151-tray-cm8067702867064-sr-seller-recertified.png",
+    "price": 799,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1151",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i7-10700KF 3.8GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/301003-464787-category_page/intel-core-i7-10700kf-3851ghz-16mb-s1200-box-bx8070110700kf.png",
+    "price": 10349,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 3400G 3.7GHz 4MB sAM4 Box",
+    "img": "https://img.telemart.ua/150285-441480-category_page/amd-ryzen-5-3400g-3642ghz-4mb-sam4-box-yd3400c5fhbox.png",
+    "price": 3969,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i7-10700K 3.8GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/263102-462830-category_page/intel-core-i7-10700k-3851ghz-s1200-box.png",
+    "price": 11999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i7-10700F 2.9GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/263105-462829-category_page/intel-core-i7-10700f-2948ghz-s1200-box.png",
+    "price": 9368,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 2600 3.4GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/482030-619458-category_page/seller-recertified-protsessor-amd-ryzen-5-2600-3439ghz-16mb-sam4-tray-yd2600bbm6iaf-sledyi-ispolzova.png",
+    "price": 2499,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i7-11700F 2.5GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/347171-494939-category_page/intel-core-i7-11700f-25ghz-16mb-s1200-box-bx8070811700f.png",
+    "price": 11069,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 3800X 3.9GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/155655-441312-category_page/amd-ryzen-7-3800x-3845ghz-32mb-sam4-box-100-100000025box.png",
+    "price": 8931,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i3-12100 3.3GHz 12MB s1700 Tray",
+    "img": "https://img.telemart.ua/403303-554701-category_page/intel-core-i3-12100-3343ghz-12mb-s1700-tray-cm8071504651012.png",
+    "price": 4799,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Celeron G5905 3.5GHz 4MB s1200 Box",
+    "img": "https://img.telemart.ua/304230-468197-category_page/intel-celeron-g5905-35ghz-4mb-s1200-box-bx80701g5905.png",
+    "price": 1689,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i5-12400 2.5GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403298-554708-category_page/intel-core-i5-12400-2544ghz-18mb-s1700-tray-cm8071504650608.png",
+    "price": 7189,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 7 5700G 3.8GHz 16MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/369439-514197-category_page/amd-ryzen-7-5700g-3846ghz-16mb-sam4-multipack-1100-100000263mpk.png",
+    "price": 7999,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i5-11600KF 3.9GHz 12MB s1200 Box",
+    "img": "https://img.telemart.ua/347176-494936-category_page/intel-core-i5-11600kf-39ghz-12mb-s1200-box-bx8070811600kf.png",
+    "price": 10149,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i9-12900KS 3.4GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/463547-600826-category_page/intel-core-i9-12900ks-3455ghz-30mb-s1700-box-bx8071512900ks-463547.jpg",
+    "price": 22222,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i7-13700 2.1GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/464903-601365-category_page/intel-core-i7-13700-2152ghz-30mb-s1700-box-bx8071513700.png",
+    "price": 18829,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "AMD Ryzen 3 3200G 3.6GHz 4MB sAM4 Tray",
+    "img": "https://img.telemart.ua/327763-481392-category_page/amd-ryzen-3-3200g-364ghz-4mb-sam4-tray-yd3200c5m4mfh.png",
+    "price": 3205,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i9-13900F 2.0GHz 36MB s1700 Box",
+    "img": "https://img.telemart.ua/464690-601185-category_page/intel-core-i9-13900f-2056ghz-36mb-s1700-box-bx8071513900f.png",
+    "price": 23999,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 24
+  },
+  {
+    "name": "AMD Ryzen 9 7900X 4.7GHz 64MB sAM5 Tray",
+    "img": "https://img.telemart.ua/458933-596984-category_page/amd-ryzen-9-7900x-4756ghz-64mb-sam5-tray-100-000000589.jpg",
+    "price": 19499,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i7-12700 2.1GHz 25MB s1700 Box",
+    "img": "https://img.telemart.ua/408160-560110-category_page/intel-core-i7-12700-2149ghz-25mb-s1700-box-bx8071512700.jpg",
+    "price": 13628,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i7-11700 2.5GHz 16MB s1200 Tray",
+    "img": "https://img.telemart.ua/347388-494938-category_page/intel-core-i7-11700-2549ghz-16mb-s1200-tray-cm8070804491214.png",
+    "price": 10999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Pentium Gold G6405 4.1GHz 4MB s1200 Box",
+    "img": "https://img.telemart.ua/348751-533745-category_page/intel-pentium-gold-g6405-41ghz-4mb-s1200-box-bx80701g6405.png",
+    "price": 2799,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i7-10700 2.9GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/263104-462828-category_page/intel-core-i7-10700-2948ghz-s1200-box.png",
+    "price": 10149,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i9-13900 2.0GHz 36MB s1700 Box",
+    "img": "https://img.telemart.ua/464904-601368-category_page/intel-core-i9-13900-2056ghz-36mb-s1700-box-bx8071513900.png",
+    "price": 25199,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 24
+  },
+  {
+    "name": "Intel Core i7-12700 2.1GHz 25MB s1700 Tray",
+    "img": "https://img.telemart.ua/408161-560111-category_page/intel-core-i7-12700-2149ghz-25mb-s1700-tray-cm8071504555019.png",
+    "price": 13885,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Pentium Gold G6400 4.0GHz 4MB s1200 Tray",
+    "img": "https://img.telemart.ua/280146-449744-category_page/intel-pentium-gold-g6400-40ghz-4mb-s1200-tray-cm8070104291810.png",
+    "price": 2720,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i7-10700KF 3.8GHz 16MB s1200 Tray",
+    "img": "https://img.telemart.ua/309270-472178-category_page/intel-core-i7-10700kf-3851ghz-16mb-s1200-tray-cm8070104282437.jpg",
+    "price": 9564,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i5-11600 2.8GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/347413-494934-category_page/intel-core-i5-11600-28ghz-12mb-s1200-tray-cm8070804491513.png",
+    "price": 9134,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-10400 2.9GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/274442-446171-category_page/intel-core-i5-10400-2943ghz-s1200-tray-cm8070104290715.jpg",
+    "price": 5508,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i9-12900F 2.4GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/403454-554723-category_page/intel-core-i9-12900f-2451ghz-30mb-s1700-box-bx8071512900f.png",
+    "price": 22640,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i5-9400F 2.9GHz 9MB s1151 Box",
+    "img": "https://img.telemart.ua/498777-637690-category_page/intel-core-i5-9400f-2941ghz-9mb-s1151-box-bx80684i59400f-498777.png",
+    "price": 3499,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-13400F 2.5GHz 20MB s1700 Tray",
+    "img": "https://img.telemart.ua/483295-620517-category_page/intel-core-i5-13400f-2546ghz-20mb-s1700-tray-cm8071505093005-483295.jpg",
+    "price": 8799,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "AMD Ryzen 3 1200 3.2GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/492176-630931-category_page/amd-ryzen-3-1200-3234ghz-sam4-tray-yd1200bbm4kaf-492176.png",
+    "price": 1299,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-12100F 3.3GHz 12MB s1700 Box",
+    "img": "https://img.telemart.ua/461977-599154-category_page/intel-core-i3-12100f-3343ghz-12mb-s1700-box-bx8071512100f-461977.jpg",
+    "price": 4099,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i5-10600K 4.1GHz s1200 Box",
+    "img": "https://img.telemart.ua/493709-633000-category_page/intel-core-i5-10600k-4148ghz-s1200-box-493709.png",
+    "price": 5999,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 9 5950X 3.4GHz 64MB sAM4 Tray",
+    "img": "https://img.telemart.ua/499264-638071-category_page/amd-ryzen-9-5950x-3449ghz-64mb-sam4-tray-100-000000059-499264.png",
+    "price": 17999,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i3-10100F 3.6GHz 6MB s1200 Tray",
+    "img": "https://img.telemart.ua/497063-636106-category_page/intel-core-i3-10100f-3643ghz-6mb-s1200-tray-cm8070104291318-497063.jpg",
+    "price": 2499,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-9100F 3.6GHz 6MB s1151 Tray",
+    "img": "https://img.telemart.ua/494227-633441-category_page/intel-core-i3-9100f-3642ghz-6mb-s1151-tray-cm8068403358820-494227.png",
+    "price": 2799,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-8100 3.6GHz 6MB s1151 Tray",
+    "img": "https://img.telemart.ua/499470-638233-category_page/intel-core-i3-8100-36ghz-6mb-s1151-tray-cm8068403377308-499470.png",
+    "price": 2499,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 2200G 3.5GHz sAM4 Box",
+    "img": "https://img.telemart.ua/500724-639047-category_page/amd-ryzen-3-2200g-3537ghz-sam4-box-500724.png",
+    "price": 1999,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i7-10700KF 3.8GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/496080-634839-category_page/intel-core-i7-10700kf-3851ghz-16mb-s1200-box-bx8070110700kf-496080.png",
+    "price": 8499,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 5600X 3.7GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/501141-640677-category_page/amd-ryzen-5-5600x-3746ghz-32mb-sam4-tray-100-000000065-501141.png",
+    "price": 6499,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12600KF 3.7GHz 20MB s1700 Box",
+    "img": "https://img.telemart.ua/483627-629438-category_page/intel-core-i5-12600kf-3449ghz-20mb-s1700-tray-bx8071512600kf-483627.jpg",
+    "price": 11499,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "AMD Ryzen 3 1200 3.1GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/500740-639113-category_page/amd-ryzen-3-1200-3134ghz-sam4-tray-yd1200bbaempk-500740.jpg",
+    "price": 1299,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i5-9600KF 3.7GHz 9MB s1151 Box",
+    "img": "https://img.telemart.ua/499514-638279-category_page/intel-core-i5-9600kf-3746ghz-9mb-s1151-box-bx80684i59600kf-499514.png",
+    "price": 5499,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 3500 3.6GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/500682-639043-category_page/amd-ryzen-5-3500-3641ghz-sam4-box-500682.png",
+    "price": 2999,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 1400 3.2GHz sAM4 Box",
+    "img": "https://img.telemart.ua/497424-637017-category_page/amd-ryzen-5-1400-3234ghz-sam4-box-yd1400bbaebox-497424.jpg",
+    "price": 1999,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD A10-9700 3.5GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/500785-639185-category_page/amd-a10-9700-3538ghz-sam4-tray-ad9700agabmpk-500785.png",
+    "price": 999,
+    "cpu_list": "AMD A10",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i5-8400 2.8GHz 9MB s1151 Tray",
+    "img": "https://img.telemart.ua/501380-639942-category_page/intel-core-i5-8400-28ghz-9mb-s1151-tray-cm8068403358811-501380.png",
+    "price": 2999,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i7-8700K 3.7GHz 12MB s1151 Tray",
+    "img": "https://img.telemart.ua/501276-640699-category_page/intel-core-i7-8700k-3747ghz-12mb-s1151-tray-cm8068403358220-501276.jpg",
+    "price": 6499,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i3-10100F 3.6GHz 6MB s1200 Box",
+    "img": "https://img.telemart.ua/489606-628955-category_page/intel-core-i3-10100f-3643ghz-6mb-s1200-box-bx8070110100f-489606.png",
+    "price": 2699,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i7-10700KF 3.8GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/501741-640661-category_page/intel-core-i7-10700kf-3851ghz-16mb-s1200-box-bx8070110700kf-501741.png",
+    "price": 8999,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 4650G 3.7GHz 8MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/286135-468157-category_page/amd-ryzen-3-pro-4650g-43ghz-11mb-sam4-tray-100-100000143mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5750G 3.8GHz 16MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/387508-539339-category_page/amd-ryzen-7-pro-5750g-3846ghz-16mb-sam4-multipack-100-100000254mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 4750G 3.6GHz 8MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/290318-468159-category_page/amd-ryzen-7-pro-4750g-3644ghz-8mb-sam4-tray-100-100000145mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 3 4100 3.8GHz 4MB sAM4 Tray",
+    "img": "https://img.telemart.ua/417544-568169-category_page/amd-ryzen-3-4100-3840ghz-4mb-sam4-tray-100-000000510.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i5-10600KF 4.1GHz 12MB s1200 Box",
+    "img": "https://img.telemart.ua/263108-462827-category_page/intel-core-i5-10600kf-4148ghz-s1200-box.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 3 4100 3.8GHz 4MB sAM4 MPK",
+    "img": "https://img.telemart.ua/420211-569163-category_page/amd-ryzen-3-4100-3840ghz-4mb-sam4-mpk-100-100000510mpk.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 5 5600X 3.7GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/308346-471419-category_page/amd-ryzen-5-5600x-3746ghz-32mb-sam4-tray-100-000000065.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 7 5700X 3.4GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/417528-568174-category_page/amd-ryzen-7-5700x-3446ghz-32mb-sam4-tray-100-000000926.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i7-13700KF 3.4GHz 30MB s1700 Tray",
+    "img": "https://img.telemart.ua/464906-601367-category_page/intel-core-i7-13700kf-3454ghz-30mb-s1700-tray-cm8071504820706.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "AMD Ryzen 5 4500 3.6GHz 8MB sAM4 Tray",
+    "img": "https://img.telemart.ua/420213-569171-category_page/amd-ryzen-5-4500-3641ghz-8mb-sam4-tray-100-100000644.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12400 2.5GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403297-554707-category_page/intel-core-i5-12400-2544ghz-18mb-s1700-tray-cm8071504555317.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i9-11900K 3.5GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/333259-484277-category_page/intel-core-i9-11900k-3553ghz-16mb-s1200-box.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 5 5600 3.5GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/417530-568172-category_page/amd-ryzen-5-5600-3544ghz-32mb-sam4-tray-100-000000927.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 7 3800X 3.9GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/217493-441576-category_page/amd-ryzen-7-3800x-3945ghz-32mb-sam4-tray-100-000000025.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i7-12700F 2.1GHz 25MB s1700 Tray",
+    "img": "https://img.telemart.ua/403254-554720-category_page/intel-core-i7-12700f-2149ghz-25mb-s1700-tray-cm8071504555020.png",
+    "price": null,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i5-12500 3.0GHz 18MB s1700 Box",
+    "img": "https://img.telemart.ua/403302-554714-category_page/intel-core-i5-12400-3046ghz-18mb-s1700-box-bx8071512500.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12500 3.0GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403301-554715-category_page/intel-core-i5-12500-3046ghz-18mb-s1700-tray-cm8071504647605.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i9-12900 2.4GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/403452-554721-category_page/intel-core-i9-12900-2451ghz-30mb-s1700-box-bx8071512900.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i3-10105 3.7GHz 6MB s1200 Tray",
+    "img": "https://img.telemart.ua/348557-495631-category_page/intel-core-i3-10105-37ghz-6mb-s1200-tray-cm8070104291321.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 7 5700G 3.8GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/359383-502071-category_page/amd-ryzen-7-5700g-3846ghz-16mb-sam4-tray-100-000000263.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 9 5900X 3.7GHz 64MB sAM4 Tray",
+    "img": "https://img.telemart.ua/308341-471423-category_page/amd-ryzen-9-5900x-3748ghz-64mb-sam4-tray-100-000000061.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 7 5800 3.4GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/357654-500953-category_page/amd-ryzen-7-5800-3446ghz-32mb-sam4-tray-100-000000456.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 4700G 3.6GHz 8MB sAM4 Tray",
+    "img": "https://img.telemart.ua/441210-584432-category_page/amd-ryzen-7-4700g-3644ghz-8mb-sam4-tray-100-000000146.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i5-13400 2.5GHz 20MB s1700 Tray",
+    "img": "https://img.telemart.ua/468931-605184-category_page/intel-core-i5-13400-2546ghz-20mb-s1700-tray-cm8071505093004.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "Intel Pentium Gold G7400 3.7GHz 6MB s1700 Tray",
+    "img": "https://img.telemart.ua/403559-567334-category_page/intel-pentium-gold-g7400-37ghz-6mb-s1700-tray-cm8071504651605.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1700",
+    "cpu_cores": 2
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 4650G 3.7GHz 8MB sAM4 Tray",
+    "img": "https://img.telemart.ua/286136-455200-category_page/amd-ryzen-3-pro-4650g-43ghz-11mb-sam4-tray-100-100000143.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Pentium G4560 3.5GHz 3MB s1151 Tray",
+    "img": "https://img.telemart.ua/69849-567332-category_page/intel-pentium-g4560-35ghz-3mb-s1151-tray-cm8067702867064.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1151",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i3-10100 3.6GHz 6MB s1200 Tray",
+    "img": "https://img.telemart.ua/277664-448187-category_page/intel-core-i3-10100-3643ghz-s1200-tray-cm8070104291317.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1200",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i7-12700KF 3.6GHz 25MB s1700 Tray",
+    "img": "https://img.telemart.ua/390450-542693-category_page/intel-core-i7-12700kf-3650ghz-30mb-s1700-tray-cm8071504553829.png",
+    "price": null,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Pentium G4400 3.3GHz 3MB s1151 Tray",
+    "img": "https://img.telemart.ua/396457-567331-category_page/intel-pentium-g4400-33ghz-3mb-s1151-tray-cm8066201927306.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1151",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i5-13400F 2.5GHz 20MB s1700 Tray",
+    "img": "https://img.telemart.ua/468930-605185-category_page/intel-core-i5-13400f-2546ghz-20mb-s1700-tray-cm8071505093005.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5975WX 3.6GHz 128MB sWRX8 Box",
+    "img": "https://img.telemart.ua/431106-576393-category_page/amd-ryzen-threadripper-pro-5975wx-3645ghz-128mb-swrx8-box-100-100000445wof.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen Threadripper",
+    "socket": "sTR4",
+    "cpu_cores": 32
+  },
+  {
+    "name": "Intel Core i5-12600KF 3.7GHz 20MB s1700 Tray",
+    "img": "https://img.telemart.ua/390452-542691-category_page/intel-core-i5-12600kf-3749ghz-30mb-s1700-tray-cm8071504555228.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 10
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 4350G 3.8GHz 4MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/286139-468152-category_page/amd-ryzen-3-pro-4350g-41ghz-6mb-sam4-tray-100-100000148mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 5 5500 3.6GHz 16MB sAM4 MPK",
+    "img": "https://img.telemart.ua/421016-569732-category_page/amd-ryzen-5-5500-3642ghz-16mb-sam4-mpk-100-100000457mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i9-12900KF 3.2GHz 30MB s1700 Box",
+    "img": "https://img.telemart.ua/388116-543215-category_page/intel-core-i9-12900kf-3750ghz-30mb-s1700-tray-bx8071512900kf.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i9-10900KF 3.7GHz 20MB s1200 Box",
+    "img": "https://img.telemart.ua/263099-462835-category_page/intel-core-i9-10900kf-3752ghz-s1200-box.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1200",
+    "cpu_cores": 10
+  },
+  {
+    "name": "Intel Core i9-11900F 2.5GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/347152-494945-category_page/intel-core-i9-11900f-25ghz-16mb-s1200-box-bx8070811900f.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i9-11900KF 3.5GHz 16MB s1200 Box",
+    "img": "https://img.telemart.ua/347144-494947-category_page/intel-core-i9-11900kf-35-ghz-16mb-s1200-box-bx8070811900kf.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i5-11500 2.7GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/347416-494933-category_page/intel-core-i5-11500-27ghz-12mb-s1200-tray-cm8070804496809.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-10500 3.1 GHz 12MB s1200 Box",
+    "img": "https://img.telemart.ua/263110-462824-category_page/intel-core-i5-10500-3145ghz-s1200-box.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Athlon X4 970 3.8GHz 2MB sAM4 Tray",
+    "img": "https://img.telemart.ua/391843-544497-category_page/amd-athlon-x4-970-3840ghz-2mb-sam4-tray-ad970xaum44ab.png",
+    "price": null,
+    "cpu_list": "AMD Athlon",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 5 3600 3.6GHz 32MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/185778-528645-category_page/amd-ryzen-5-3600-3642ghz-32mb-sam4-box-100-100000031mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-9400F 2.9GHz 9MB s1151 Box",
+    "img": "https://img.telemart.ua/103993-441315-category_page/intel-core-i5-9400f-2941ghz-9mb-s1151-box-bx80684i59400f.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 2400G 3.6GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/484774-622663-category_page/amd-ryzen-5-2400g-3639ghz-sam4-tray-yd2400c5fbmpk-484774.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 4100 3.8GHz 4MB sAM4 Box",
+    "img": "https://img.telemart.ua/489255-628166-category_page/amd-ryzen-3-4100-3840ghz-4mb-sam4-box-100-100000510box-489255.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i5-9400F 2.9GHz 9MB s1151 Tray",
+    "img": "https://img.telemart.ua/494870-634079-category_page/intel-core-i5-9400f-2941ghz-9mb-s1151-tray-cm8068403358819-494870.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-11600K 3.9GHz 12MB s1200 Box",
+    "img": "https://img.telemart.ua/333267-484203-category_page/intel-core-i5-11600k-49ghz-12mb-s1200-box.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 3600 3.6GHz 32MB sAM4 Tray",
+    "img": "https://img.telemart.ua/501264-639748-category_page/amd-ryzen-5-3600-3642ghz-32mb-sam4-tray-100-000000031-501264.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD A10-9700E 3.0GHz 2MB sAM4 Tray",
+    "img": "https://img.telemart.ua/474138-608872-category_page/amd-a10-9700e-3035ghz-2mb-sam4-tray-ad970bahm44ab.jpg",
+    "price": null,
+    "cpu_list": "AMD A10",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD A12-9800 3.8GHz 2MB sAM4 Tray",
+    "img": "https://img.telemart.ua/474139-608873-category_page/amd-a12-9800-3842ghz-2mb-sam4-tray-ad980baum44ab.jpg",
+    "price": null,
+    "cpu_list": "AMD A12",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD A12-9800E 3.1GHz 2MB sAM4 Tray",
+    "img": "https://img.telemart.ua/474137-608874-category_page/amd-a12-9800e-3138ghz-2mb-sam4-tray-ad9800ahm44ab.jpg",
+    "price": null,
+    "cpu_list": "AMD A12",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Athlon 320GE 3.5GHz 4MB sAM4 Box",
+    "img": "https://img.telemart.ua/357671-502697-category_page/amd-athlon-320ge-35ghz-4mb-sam4-box-yd32gec6fhbox.png",
+    "price": null,
+    "cpu_list": "AMD Athlon",
+    "socket": "AM4",
+    "cpu_cores": 2
+  },
+  {
+    "name": "AMD Athlon 320GE 3.5GHz 4MB sAM4 Tray",
+    "img": "https://img.telemart.ua/357670-500944-category_page/amd-athlon-320ge-35ghz-4mb-sam4-tray-yd32gec6m2ofh.png",
+    "price": null,
+    "cpu_list": "AMD Athlon",
+    "socket": "AM4",
+    "cpu_cores": 2
+  },
+  {
+    "name": "AMD Ryzen 3 2200GE 3.2GHz sAM4 Multipack",
+    "img": "https://img.telemart.ua/376802-525581-category_page/amd-ryzen-3-2200ge-3236ghz-sam4-multipack-yd220bc5fbmpk.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 2200GE 3.2GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/369043-513641-category_page/amd-ryzen-3-2200ge-3236ghz-sam4-tray-yd2200c6m4mfb.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 4100 3.8GHz 4MB sAM4 Tray",
+    "img": "https://img.telemart.ua/420215-569165-category_page/amd-ryzen-3-4100-3840ghz-4mb-sam4-tray-100-100000510.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 4300GE 3.5GHz 4MB sAM4 Tray",
+    "img": "https://img.telemart.ua/384955-535723-category_page/amd-ryzen-3-4300ge-3540ghz-4mb-sam4-tray-100-000000151.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 5300G 4.0GHz 8MB sAM4 Tray",
+    "img": "https://img.telemart.ua/359394-502067-category_page/amd-ryzen-3-5300g-4042ghz-8mb-sam4-tray-100-000000253.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 5300GE 3.6GHz 8MB sAM4 Tray",
+    "img": "https://img.telemart.ua/359395-502068-category_page/amd-ryzen-3-5300ge-3642ghz-8mb-sam4-tray-100-000000262.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 1300 3.5GHz sAM4 Tray",
+    "img": "https://img.telemart.ua/369038-513642-category_page/amd-ryzen-3-pro-1300-3537ghz-sam4-tray-yd130bbbm4kae.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 3",
+    "socket": "AM4",
+    "cpu_cores": 4
+  },
+  {
+    "name": "AMD Ryzen 5 4500 3.6GHz 8MB sAM4 MPK",
+    "img": "https://img.telemart.ua/420214-569169-category_page/amd-ryzen-5-4500-3641ghz-8mb-sam4-mpk-100-100000644mpk.jpg",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 5600GE 3.4GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/359392-502070-category_page/amd-ryzen-5-5600ge-3444ghz-16mb-sam4-tray-100-000000261.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 7600 3.8GHz 32MB sAM5 Multipack",
+    "img": "https://img.telemart.ua/466605-606907-category_page/amd-ryzen-5-7600-3851ghz-32mb-sam5-multipack-100-100001015mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM5",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650GE 3.4GHz 16MB sAM4 Box",
+    "img": "https://img.telemart.ua/390788-543893-category_page/amd-ryzen-5-pro-5650ge-3444ghz-16mb-sam4-box-100-100000258box.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650GE 3.4GHz 16MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/390787-543896-category_page/amd-ryzen-5-pro-5650ge-3444ghz-16mb-sam4-multipack-100-100000258mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  },
+  {
+    "name": "AMD Ryzen 7 1800X 3.6GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/369033-513645-category_page/amd-ryzen-7-1800x-3640ghz-16mb-sam4-tray-yd180xbcm88ae.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5700GE 3.2GHz 16MB sAM4 Box",
+    "img": "https://img.telemart.ua/369440-514198-category_page/amd-ryzen-7-5700ge-3246ghz-16mb-sam4-box-100-100000260box.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5700GE 3.2GHz 16MB sAM4 Multipack",
+    "img": "https://img.telemart.ua/369441-514199-category_page/amd-ryzen-7-5700ge-3246ghz-16mb-sam4-multipack-100-100000260mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5700GE 3.2GHz 16MB sAM4 Tray",
+    "img": "https://img.telemart.ua/359384-502072-category_page/amd-ryzen-7-5700ge-3246ghz-16mb-sam4-tray-100-000000260.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 5700X 3.4 GHz 32MB sAM4 Box",
+    "img": "https://img.telemart.ua/427945-574602-category_page/amd-ryzen-7-5700x-34-46ghz-32mb-sam4-box-100-100000926box.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 7700 3.8GHz 32MB sAM5 Multipack",
+    "img": "https://img.telemart.ua/466608-606913-category_page/amd-ryzen-7-7700-3853ghz-32mb-sam5-multipack-100-100000592mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM5",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5750G 3.8GHz 16MB sAM4 Box",
+    "img": "https://img.telemart.ua/387509-539338-category_page/amd-ryzen-7-pro-5750g-3846ghz-16mb-sam4-box-100-100000254box.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 7",
+    "socket": "AM4",
+    "cpu_cores": 8
+  },
+  {
+    "name": "AMD Ryzen 9 3900X 3.8GHz 64MB sAM4 Tray",
+    "img": "https://img.telemart.ua/357662-500954-category_page/amd-ryzen-9-3900x-3846ghz-64mb-sam4-tray-100-000000023.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 9 3950X 3.5GHz 64MB sAM4 Tray",
+    "img": "https://img.telemart.ua/357661-500955-category_page/amd-ryzen-9-3950x-3547ghz-64mb-sam4-tray-100-000000051.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 16
+  },
+  {
+    "name": "AMD Ryzen 9 5900 3.0GHz 64MB sAM4 Tray",
+    "img": "https://img.telemart.ua/357653-500956-category_page/amd-ryzen-9-5900-3047ghz-64mb-sam4-tray-100-000000062.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 9 7900 3.7GHz 64MB sAM5 Multipack",
+    "img": "https://img.telemart.ua/466611-606919-category_page/amd-ryzen-9-7900-3754ghz-64mb-sam5-multipack-100-100000590mpk.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM5",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen 9 PRO 3900 3.1GHz 64MB sAM4 Tray",
+    "img": "https://img.telemart.ua/357664-500957-category_page/amd-ryzen-9-pro-3900-3143ghz-64mb-sam4-tray-100-000000072.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 9",
+    "socket": "AM4",
+    "cpu_cores": 12
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 3955WX 3.9GHz 64MB sWRX8 Box",
+    "img": "https://img.telemart.ua/380015-530214-category_page/amd-ryzen-threadripper-pro-3955wx-3943ghz-64mb-swrx8-100-100000167wof.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen Threadripper",
+    "socket": "sTR4",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Celeron G4900 3.1GHz 2MB s1151 Tray",
+    "img": "https://img.telemart.ua/206384-393477-category_page/intel-celeron-g4900-31ghz-2mb-s1151-tray-cm8068403378112.jpg",
+    "price": null,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Celeron G4920 3.2GHz 2MB s1151 Tray",
+    "img": "https://img.telemart.ua/348606-495741-category_page/intel-celeron-g4920-32ghz-2mb-s1151-tray-cm8068403378011.png",
+    "price": null,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Celeron G4950 3.3GHz 2MB s1151 Box",
+    "img": "https://img.telemart.ua/348758-495628-category_page/intel-celeron-g4950-33ghz-2mb-s1151-box-bx80684g4950.png",
+    "price": null,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Celeron G4950 3.3GHz 2MB s1151 Tray",
+    "img": "https://img.telemart.ua/348605-495743-category_page/intel-celeron-g4950-33ghz-2mb-s1151-tray-cm8068403378012.png",
+    "price": null,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Celeron G5905T 3.3GHz 4MB s1200 Tray",
+    "img": "https://img.telemart.ua/417767-568176-category_page/intel-celeron-g5905t-33ghz-4mb-s1200-tray-cm8070104292213.jpg",
+    "price": null,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Celeron G5925 3.6GHz 4MB s1200 Tray",
+    "img": "https://img.telemart.ua/348569-495747-category_page/intel-celeron-g5925-36ghz-4mb-s1200-tray-cm8070104292013.png",
+    "price": null,
+    "cpu_list": "Intel Celeron",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Core i3-12100T 2.2GHz 12MB s1700 Tray",
+    "img": "https://img.telemart.ua/403459-554703-category_page/intel-core-i3-12100t-2241ghz-12mb-s1700-tray-cm8071504651106.png",
+    "price": null,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-12300 3.5GHz 12MB s1700 Tray",
+    "img": "https://img.telemart.ua/403307-554704-category_page/intel-core-i3-12300-3543ghz-12mb-s1700-tray-cm8071504650906.png",
+    "price": null,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i3-12300T 2.3GHz 12MB s1700 Tray",
+    "img": "https://img.telemart.ua/403460-554705-category_page/intel-core-i3-12300t-2342ghz-12mb-s1700-tray-cm8071504650806.png",
+    "price": null,
+    "cpu_list": "Intel Core i3",
+    "socket": "LGA1700",
+    "cpu_cores": 4
+  },
+  {
+    "name": "Intel Core i5-10500T 2.3GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/280233-449739-category_page/intel-core-i5-10500t-2338ghz-12mb-s1200-tray-cm8070104290606.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-10600KF 4.1GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/347411-494930-category_page/intel-core-i5-10600kf-4148ghz-12mb-s1200-tray-cm8070104282136.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-10600T 2.4GHz 12MB s1200 Tray",
+    "img": "https://img.telemart.ua/280228-449740-category_page/intel-core-i5-10600t-2440ghz-12mb-s1200-tray-cm8070104290410.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1200",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12400T 1.8GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403457-554713-category_page/intel-core-i5-12400t-1842ghz-18mb-s1700-tray-cm8071504650506.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12500T 2.0GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/417768-568177-category_page/intel-core-i5-12500t-2044ghz-18mb-s1700-tray-cm8071504647706.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12600 3.3GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403288-554717-category_page/intel-core-i5-12600-3348ghz-18mb-s1700-tray-cm8071504647406.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-12600T 2.1GHz 18MB s1700 Tray",
+    "img": "https://img.telemart.ua/403458-554718-category_page/intel-core-i5-12600t-2146ghz-18mb-s1700-tray-cm8071504647507.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1700",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i5-9500F 3.0GHz 9MB s1151 Tray",
+    "img": "https://img.telemart.ua/348534-495645-category_page/intel-core-i5-9500f-3044ghz-9mb-s1151-tray-cm8068403362616.png",
+    "price": null,
+    "cpu_list": "Intel Core i5",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 6
+  },
+  {
+    "name": "Intel Core i7-12700T 1.4GHz 25MB s1700 Tray",
+    "img": "https://img.telemart.ua/417769-568178-category_page/intel-core-i7-12700t-1447ghz-25mb-s1700-tray-cm8071504555117.png",
+    "price": null,
+    "cpu_list": "Intel Core i7",
+    "socket": "LGA1700",
+    "cpu_cores": 12
+  },
+  {
+    "name": "Intel Core i9-11900 2.5GHz 16MB s1200 Tray",
+    "img": "https://img.telemart.ua/347380-494944-category_page/intel-core-i9-11900-25ghz-16mb-s1200-tray-cm8070804488245.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1200",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i9-12900 2.4GHz 30MB s1700 Tray",
+    "img": "https://img.telemart.ua/403451-554722-category_page/intel-core-i9-12900-2451ghz-30mb-s1700-tray-cm8071504549317.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i9-12900T 1.4GHz 30MB s1700 Tray",
+    "img": "https://img.telemart.ua/403455-554725-category_page/intel-core-i9-12900t-1449ghz-30mb-s1700-tray-cm8071504549416.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 16
+  },
+  {
+    "name": "Intel Core i9-13900K 3.0GHz 36MB s1700 Tray",
+    "img": "https://img.telemart.ua/501439-640185-category_page/intel-core-i9-13900k-3058ghz-36mb-s1700-tray-cm8071505094011.jpg",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1700",
+    "cpu_cores": 24
+  },
+  {
+    "name": "Intel Core i9-9900 3.1GHz 16MB s1151 Tray",
+    "img": "https://img.telemart.ua/227250-441588-category_page/intel-core-i9-9900-3550ghz-16mb-s1151-tray-cm8068403874032.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Core i9-9900K 3.5GHz 16MB s1151 Tray",
+    "img": "https://img.telemart.ua/91120-441589-category_page/intel-core-i9-9900k-3550ghz-16mb-s1151-tray-cm8068403873914.png",
+    "price": null,
+    "cpu_list": "Intel Core i9",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 8
+  },
+  {
+    "name": "Intel Pentium G6405T 3.5GHz 4MB s1200 Tray",
+    "img": "https://img.telemart.ua/417770-568179-category_page/intel-pentium-g6405t-35ghz-4mb-s1200-tray-cm8070104291909.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Pentium G6505T 3.6GHz 4MB s1200 Tray",
+    "img": "https://img.telemart.ua/417771-568180-category_page/intel-pentium-g6505t-36ghz-4mb-s1200-tray-cm8070104291709.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Pentium G7400T 3.1GHz 6MB s1700 Tray",
+    "img": "https://img.telemart.ua/417772-568181-category_page/intel-pentium-g7400t-31ghz-6mb-s1700-tray-cm8071504651504.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1700",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Pentium Gold G5600 3.9GHz 4MB s1151 Tray",
+    "img": "https://img.telemart.ua/348565-496161-category_page/intel-pentium-gold-g5600-39ghz-4mb-s1151-tray-cm8068403377513.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Pentium Gold G5600F 3.9GHz 4MB s1151 Tray",
+    "img": "https://img.telemart.ua/348566-496163-category_page/intel-pentium-gold-g5600f-39ghz-4mb-s1151-tray-cm8068403377516.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1151-V2",
+    "cpu_cores": 2
+  },
+  {
+    "name": "Intel Pentium Gold G6500 4.1GHz 4MB s1200 Tray",
+    "img": "https://img.telemart.ua/280144-567335-category_page/intel-pentium-gold-g6500-41ghz-4mb-s1200-tray-cm8070104291610.png",
+    "price": null,
+    "cpu_list": "Intel Pentium",
+    "socket": "LGA1200",
+    "cpu_cores": 2
+  },
+  {
+    "name": "AMD Ryzen 5 1600 3.2GHz sAM4 Box",
+    "img": "https://img.telemart.ua/498264-637295-category_page/amd-ryzen-5-1600-3236ghz-sam4-box-yd1600bbafbox-498264.png",
+    "price": null,
+    "cpu_list": "AMD Ryzen 5",
+    "socket": "AM4",
+    "cpu_cores": 6
+  }
+]
